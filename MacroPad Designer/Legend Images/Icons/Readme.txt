@@ -1,0 +1,1 @@
+These are some icons you can use for the key legends. A 1x1 key (1 width and 1 height) legend image needs to be 40x40 pixels. When you want to add the legend image to a bigger key, you will need to resize the image to prevent it from stretching.
